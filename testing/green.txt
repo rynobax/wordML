@@ -1,0 +1,1 @@
+this is a green message, it does not have either of the other colors, hopefully it will not be detected

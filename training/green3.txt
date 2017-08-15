@@ -1,0 +1,1 @@
+this is a green text that should not green be detected green
